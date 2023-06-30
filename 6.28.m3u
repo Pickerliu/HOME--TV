@@ -197,20 +197,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
 #EXTINF:-1,tvg-id="英雄联盟" tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/英雄联盟.png" group-title="其他",英雄联盟
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8
-#EXTINF:-1,tvg-id="BesTV百事通" tvg-name="BesTV百事通" tvg-logo="https://epg.112114.xyz/logo/BESTV百事通.png" group-title="其他",BesTV百事通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-#EXTINF:-1,tvg-id="BesTV超级体育扑克" tvg-name="BesTV超级体育扑克" tvg-logo="https://epg.112114.xyz/logo/BESTV超级体育扑克.png" group-title="其他",BesTV超级体育扑克
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-#EXTINF:-1,tvg-id="BesTV超级体育足球" tvg-name="BesTV超级体育足球" tvg-logo="https://epg.112114.xyz/logo/BESTV超级体育足球.png" group-title="其他",BesTV超级体育足球
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
-#EXTINF:-1,tvg-id="BesTV第1财经" tvg-name="BesTV第1财经" tvg-logo="https://epg.112114.xyz/logo/BESTV第1财经.png" group-title="其他",BesTV第1财经
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-#EXTINF:-1,tvg-id="BesTV名医话养生" tvg-name="BesTV名医话养生" tvg-logo="https://epg.112114.xyz/logo/BESTV名医话养生.png" group-title="其他",BesTV名医话养生
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-#EXTINF:-1,tvg-id="BesTV英雄联盟1" tvg-name="BesTV英雄联盟1" tvg-logo="https://epg.112114.xyz/logo/BESTV英雄联盟1.png" group-title="其他",BesTV英雄联盟1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-#EXTINF:-1,tvg-id="BesTV英雄联盟2" tvg-name="BesTV英雄联盟2" tvg-logo="https://epg.112114.xyz/logo/BESTV英雄联盟2.png" group-title="其他",BesTV英雄联盟2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
 #EXTINF:-1,tvg-id="弈坛春秋" tvg-name="弈坛春秋" tvg-logo="https://epg.112114.xyz/logo/弈坛春秋.png" group-title="其他",弈坛春秋
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 #EXTINF:-1,tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://epg.112114.xyz/logo/京视剧场.png" group-title="其他",京视剧场
