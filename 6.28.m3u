@@ -65,8 +65,6 @@ http://192.168.1.180:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
 http://192.168.1.180:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CGTN记录.png",CGTN-记录
 http://192.168.1.180:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/重温经典.png",重温经典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4KSDR.png",cctv4k-SDR
 http://192.168.1.180:35455/rptv/G_CCTV-4K-HD.m3u8?license=gitv
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",cctv4k
@@ -169,8 +167,6 @@ http://192.168.1.180:35455/rptv/miguaoyun1-AVS.m3u8?license=gitv
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/LOUPE4K.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png",Fashion 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/咪咕全民热练.png",咪咕全民热练
 http://192.168.1.180:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/求索动物.png",求索动物
