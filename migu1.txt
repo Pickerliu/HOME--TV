@@ -1,99 +1,50 @@
-#EXTM3U
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="港澳台",http://o11.163189.xyz/stream/tvb/fct/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="港澳台",http://o11.163189.xyz/stream/tvb/tvbp/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="港澳台",http://o11.163189.xyz/stream/tvb/mzt/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="港澳台",http://o11.163189.xyz/stream/live/tvbxh/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="港澳台",http://o11.163189.xyz/stream/live/tvbc/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://o11.163189.xyz/stream/live/typd/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://o11.163189.xyz/stream/live/ccm/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://o11.163189.xyz/stream/live/aod/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://o11.163189.xyz/stream/live/aec/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://o11.163189.xyz/stream/live/hxt/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://o11.163189.xyz/stream/live/iqiyi/
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://r.jdshipin.com/cCCzW
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/0Rp07" tvg-name="http://r.jdshipin.com/0Rp07" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/0RP07.png" group-title="其他",http://r.jdshipin.com/0Rp07
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/yDoTN" tvg-name="http://r.jdshipin.com/yDoTN" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/YDOTN.png" group-title="其他",http://r.jdshipin.com/yDoTN
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/NfC0f" tvg-name="http://r.jdshipin.com/NfC0f" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/NFC0F.png" group-title="其他",http://r.jdshipin.com/NfC0f
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/CkuBd" tvg-name="http://r.jdshipin.com/CkuBd" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/CKUBD.png" group-title="其他",http://r.jdshipin.com/CkuBd
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/qClQf" tvg-name="http://r.jdshipin.com/qClQf" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/QCLQF.png" group-title="其他",http://r.jdshipin.com/qClQf
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/thuYX" tvg-name="http://r.jdshipin.com/thuYX" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/THUYX.png" group-title="其他",http://r.jdshipin.com/thuYX
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/Nr5jq" tvg-name="http://r.jdshipin.com/Nr5jq" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/NR5JQ.png" group-title="其他",http://r.jdshipin.com/Nr5jq
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://r.jdshipin.com/n2YZI
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/Voac4" tvg-name="http://r.jdshipin.com/Voac4" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/VOAC4.png" group-title="其他",http://r.jdshipin.com/Voac4
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/sE5vO" tvg-name="http://r.jdshipin.com/sE5vO" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/SE5VO.png" group-title="其他",http://r.jdshipin.com/sE5vO
-undefined
-#EXTINF:-1,tvg-id="http://r.jdshipin.com/LiYdg" tvg-name="http://r.jdshipin.com/LiYdg" tvg-logo="https://epg.112114.xyz/logo/HTTP://R.JDSHIPIN.COM/LIYDG.png" group-title="其他",http://r.jdshipin.com/LiYdg
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/asam
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/as
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/amty
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/amzy
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/amlh
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/jade
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="港澳台",http://cdn6.163189.xyz/163189/tvb1
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/j1
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="港澳台",http://cdn6.163189.xyz/163189/tvbd
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/yzwx
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/ylxw
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="港澳台",http://cdn6.163189.xyz/163189/tvbxh
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/8tv
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/ch5
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn6.163189.xyz/163189/ch8
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://cdn.163189.xyz/163189/now
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://cdn.163189.xyz/163189/viu
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://cdn8.163189.xyz/163189/lhdy
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://cdn8.163189.xyz/163189/lhxj
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://cdn8.163189.xyz/163189/lhrh
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://cdn8.163189.xyz/163189/lhox
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",https://cdn8.163189.xyz/163189/lhjd
-undefined
-#EXTINF:-1,tvg-id="http://feilong123.vip/409990236/tv.php?id=ssdy" tvg-name="http://feilong123.vip/409990236/tv.php?id=ssdy" tvg-logo="https://epg.112114.xyz/logo/HTTP://FEILONG.VIP/6/TV.PHP?ID=SSDY.png" group-title="其他",http://feilong123.vip/409990236/tv.php?id=ssdy
-undefined
-#EXTINF:-1,tvg-id="http://feilong123.vip/409990236/tv.php?id=sswx" tvg-name="http://feilong123.vip/409990236/tv.php?id=sswx" tvg-logo="https://epg.112114.xyz/logo/HTTP://FEILONG.VIP/6/TV.PHP?ID=SSWX.png" group-title="其他",http://feilong123.vip/409990236/tv.php?id=sswx
-undefined
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",http://feilong123.vip/409990236/tv.php?id=ssdz
-undefined
-#EXTINF:-1,tvg-id="http://feilong123.vip/409990236/tv.php?id=ssxj" tvg-name="http://feilong123.vip/409990236/tv.php?id=ssxj" tvg-logo="https://epg.112114.xyz/logo/HTTP://FEILONG.VIP/6/TV.PHP?ID=SSXJ.png" group-title="其他",http://feilong123.vip/409990236/tv.php?id=ssxj
-undefined
+
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+TVB,http://o11.163189.xyz/stream/tvb/tvbp/
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
+千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
+天映频道,http://o11.163189.xyz/stream/live/typd/
+天映经典频道,http://o11.163189.xyz/stream/live/ccm/
+ASTROAOD,http://o11.163189.xyz/stream/live/aod/
+ASTROAEC,http://o11.163189.xyz/stream/live/aec/
+ASTRO欢喜台,http://o11.163189.xyz/stream/live/hxt/
+IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+无线新闻台,http://r.jdshipin.com/CkuBd
+翡翠台,http://r.jdshipin.com/qClQf
+华丽翡翠台,http://r.jdshipin.com/thuYX
+TVB,http://r.jdshipin.com/Nr5jq
+澳视澳门,http://r.jdshipin.com/n2YZI
+TVB星河,http://r.jdshipin.com/Voac4
+广东珠江,http://r.jdshipin.com/sE5vO
+广东体育,http://r.jdshipin.com/LiYdg
+澳视澳门,http://cdn6.163189.xyz/163189/asam
+澳视卫星,http://cdn6.163189.xyz/163189/as
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
+华丽翡翠台,http://cdn6.163189.xyz/163189/jade
+TVB1,http://cdn6.163189.xyz/163189/tvb1
+TVBJ,http://cdn6.163189.xyz/163189/j1
+TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
+TVB亚洲武侠,http://cdn6.163189.xyz/163189/yzwx
+娱乐新闻台,http://cdn6.163189.xyz/163189/ylxw
+TVB星河,http://cdn6.163189.xyz/163189/tvbxh
+八度空间,http://cdn6.163189.xyz/163189/8tv
+CHANNEL,http://cdn6.163189.xyz/163189/ch5
+CHANNEL,http://cdn6.163189.xyz/163189/ch8
+NOW新闻台,http://cdn.163189.xyz/163189/now
+VIUTV,https://cdn.163189.xyz/163189/viu
+龙华电影,https://cdn8.163189.xyz/163189/lhdy
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
+龙华日韩,https://cdn8.163189.xyz/163189/lhrh
+龙华偶像,https://cdn8.163189.xyz/163189/lhox
+龙华经典,https://cdn8.163189.xyz/163189/lhjd
+邵氏电影,http://feilong123.vip/409990236/tv.php?id=ssdy
+邵氏武侠,http://feilong123.vip/409990236/tv.php?id=sswx
+邵氏动作,http://feilong123.vip/409990236/tv.php?id=ssdz
+邵氏喜剧,http://feilong123.vip/409990236/tv.php?id=ssxj
